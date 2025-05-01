@@ -7,9 +7,8 @@ Welcome! I'm Ibe Christopher, a cybersecurity enthusiast with a background in so
 ## 🔐 Cybersecurity Projects
 
 ### 1. Virtual Lab Setup
-- **Tools**: VirtualBox, Kali Linux Max, Ubuntu
-- **Purpose**: Set up lab for ethical hacking practice aligned with Cisco Networking Academy curriculum. 
-- **Use Case**: Aligned with Cisco Networking Academy’s labs and practice environments
+- **Tools**: VirtualBox, Kali Linux, Ubuntu
+- **Description**: Set up a virtual lab environment for cybersecurity practice. Installed Kali Linux and Ubuntu to simulate ethical hacking scenarios and server security configurations. This setup supports my coursework and hands-on learning with Cisco Networking Academy.
 
 ---
 
