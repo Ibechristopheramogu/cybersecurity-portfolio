@@ -1,14 +1,14 @@
 # Ibe Christopher | Cybersecurity Portfolio
 
-Welcome! I'm Ibe Christopher, a cybersecurity enthusiast with a background in software engineering (ALX program). I'm currently exploring ethical hacking, server security, and network fundamentals through hands-on labs and professional certification programs.
+Welcome! I'm Ibe Christopher, a cybersecurity enthusiast with a background in software engineering (ALX program). I'm currently exploring ethical hacking and network fundamentals through hands-on labs and professional certification programs.
 
 ---
 
 ## 🔐 Cybersecurity Projects
 
-### 1. Visual Lab Setup
+### 1. Virtual Lab Setup
 - **Tools**: VirtualBox, Kali Linux Max, Ubuntu
-- **Purpose**: Practicing ethical hacking and network defense in a safe, virtual environment  
+- **Purpose**: Set up lab for ethical hacking practice aligned with Cisco Networking Academy curriculum. 
 - **Use Case**: Aligned with Cisco Networking Academy’s labs and practice environments
 
 ---
