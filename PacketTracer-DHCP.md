@@ -19,7 +19,7 @@ This simulation demonstrates practical skills in:
 - Connected each PC to a **wireless router’s Ethernet port** using straight-through cables
 
 📸 *Screenshot Placeholder - Network Topology*  
-`![Network Topology](path/to/topology_screenshot.png)`
+`![Network Topology](images/Topology.png)`
 
 ---
 
@@ -31,13 +31,10 @@ This simulation demonstrates practical skills in:
 ✅ **Default Gateway:** `192.168.0.1`
 
 📸 *Screenshot Placeholder - PC0 IP Configuration*  
-`![PC0 IP Config](path/to/pc0_dhcp.png)`
+`![PC0 IP Config](images/pcDHCPconfig.png)`
 
 - Opened the web browser on PC0 and accessed the router via `192.168.0.1` (login: `admin / admin`)
 - Observed default DHCP settings under **Basic Setup**.
-
-📸 *Screenshot Placeholder - Router Default DHCP Page*  
-`![Router DHCP](path/to/router_dhcp_default.png)`
 
 ---
 
@@ -48,7 +45,7 @@ This simulation demonstrates practical skills in:
 - Returned to **PC0**, selected Static > DHCP to renew IP.
 
 📸 *Screenshot Placeholder - Changed Router IP to 192.168.5.1*  
-`![Changed Router IP](path/to/router_ip_updated.png)`
+`![Changed Router IP](images/RouterConfiguration.png)`
 
 ---
 
@@ -62,7 +59,7 @@ After saving, PC0 was renewed with the new address:
 ✅ **PC0 IP Address:** `192.168.5.126`
 
 📸 *Screenshot Placeholder - DHCP New Range Configuration*  
-`![New DHCP Range](path/to/dhcp_updated_range.png)`
+`![New DHCP Range](images/RouterConfiguration.png)`
 
 ---
 
@@ -75,8 +72,7 @@ On **PC1**:
 On **PC2**:
 - Repeated the same DHCP steps
 
-📸 *Screenshot Placeholder - PC1/PC2 IP Details*  
-`![PC1 and PC2 IP](path/to/pc1_pc2_ipconfig.png)`
+
 
 ---
 
@@ -89,3 +85,5 @@ From **PC2**:
 ```bash
 ping 192.168.5.1
 ping 192.168.5.127
+📸 *Screenshot Placeholder - Ping Details*  
+`![Ping Details](images/Ping.png)`
