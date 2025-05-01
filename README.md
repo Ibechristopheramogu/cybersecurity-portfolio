@@ -9,6 +9,12 @@ Welcome! I'm Ibe Christopher, a cybersecurity enthusiast with a background in so
 ### 1. Virtual Lab Setup
 - **Tools**: VirtualBox, Kali Linux, Ubuntu
 - **Description**: Set up a virtual lab environment for cybersecurity practice. Installed Kali Linux and Ubuntu to simulate ethical hacking scenarios and server security configurations. This setup supports my coursework and hands-on learning with Cisco Networking Academy.
+## 2. DHCP Configuration
+
+- [Packet Tracer - DHCP Configuration Lab](./PacketTracer-DHCP.md)
+
+Feel free to explore and learn more about networking setups and DHCP configurations in this hands-on lab.
+
 
 ---
 
