@@ -43,7 +43,8 @@ Welcome! I'm Ibe Christopher, a cybersecurity enthusiast with a background in so
 
 ## 📘 Software Engineering (ALX Program)
 
-See my [ALX Projects](https://github.com/IbeChristopher?tab=repositories)  
+See my [ALX Low Level Programming](https://github.com/Ibechristopheramogu/alx-low_level_programming)
+See my [ALX System Engineering Devops](https://github.com/Ibechristopheramogu/alx-system_engineering-devops)
 - C Programming  
 - DevOps & Shell scripting  
 - System Engineering & Linux
