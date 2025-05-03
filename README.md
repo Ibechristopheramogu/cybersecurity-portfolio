@@ -13,7 +13,12 @@ Welcome! I'm Ibe Christopher, a cybersecurity enthusiast with a background in so
 
 - [Packet Tracer - DHCP Configuration Lab](./PacketTracer-DHCP.md)
 
-Feel free to explore and learn more about networking setups and DHCP configurations in this hands-on lab.
+  Feel free to explore and learn more about networking setups and DHCP configurations in this hands-on lab.
+  ## 3. BASIC LAN SETUP
+
+- [Packet Tracer - BASIC LAN SETUP Lab](./Basic-LAN-Setup.md)
+
+  Feel free to explore and learn more about networking setups  in this hands-on lab.
 
 
 ---
@@ -39,10 +44,10 @@ Feel free to explore and learn more about networking setups and DHCP configurati
 
 | Date        | Activity                                              |
 |-------------|-------------------------------------------------------|
+| MAY 2, 2025| Completed Cisco Certification: Networking Basics      |
 | May 1, 2025 | Started Cybersecurity Portfolio                       |
-| Apr 30, 2025| Completed Cisco Certification: Networking Basics      |
-| Apr 28, 2025| Completed Cisco Certification: Intro to Cybersecurity |
 | Apr 20, 2025| Set up VirtualBox lab with Kali Linux Max and Ubuntu |
+| Apr 4, 2025| Completed Cisco Certification: Intro to Cybersecurity |
 
 ---
 
