@@ -30,11 +30,45 @@ Set up a Local Area Network (LAN) with 2–4 PCs using a switch. Each PC will be
 
 > _images:_
 
-![Network Topology Diagram](images/basic-lan-topology.png)
+![1](images/BASIC%20LAN%20SETUP%20(1).png)
 
-![PC IP Configuration](images/pc-ip-config.png)
+![2](images/BASIC%20LAN%20SETUP%20(2).png)
 
-![Ping Test Result](images/ping-test-success.png)
+![3](images/BASIC%20LAN%20SETUP%20(3).png)
+
+![4](images/BASIC%20LAN%20SETUP%20(4).png)
+
+![5](images/BASIC%20LAN%20SETUP%20(5).png)
+
+![6](images/BASIC%20LAN%20SETUP%20(6).png)
+
+![7](images/BASIC%20LAN%20SETUP%20(7).png)
+
+![8](images/BASIC%20LAN%20SETUP%20(8).png)
+
+![9](images/BASIC%20LAN%20SETUP%20(9).png)
+
+![0](images/BASIC%20LAN%20SETUP%20(10).png)
+
+![1](images/BASIC%20LAN%20SETUP%20(11).png)
+
+![2](images/BASIC%20LAN%20SETUP%20(12).png)
+
+![3](images/BASIC%20LAN%20SETUP%20(13).png)
+
+![4](images/BASIC%20LAN%20SETUP%20(14).png)
+
+![5](images/BASIC%20LAN%20SETUP%20(15).png)
+
+![6](images/BASIC%20LAN%20SETUP%20(16).png)
+
+![7](images/BASIC%20LAN%20SETUP%20(17).png)
+
+![8](images/BASIC%20LAN%20SETUP%20(18).png)
+
+![9](images/BASIC%20LAN%20SETUP%20(19).png)
+
+![0](images/BASIC%20LAN%20SETUP%20(20).png)
 
 ---
 
@@ -56,5 +90,5 @@ Set up a Local Area Network (LAN) with 2–4 PCs using a switch. Each PC will be
 
 ## 💬 Want to Learn With Me?
 
-Feel free to fork the repo, try it out yourself, and connect with me on [LinkedIn](https://www.linkedin.com/in/ibechristopheramogu/). Let’s learn, build, and grow together!
+Feel free to fork the repo, try it out yourself, and connect with me on [LinkedIn](https://www.linkedin.com/in/christopher-ibe-26439a24b/). Let’s learn, build, and grow together!
 
