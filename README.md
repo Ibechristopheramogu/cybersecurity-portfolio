@@ -28,6 +28,7 @@ Welcome! I'm Ibe Christopher, a cybersecurity enthusiast with a background in so
 - **Cisco Networking Academy**  
   - *Introduction to Cybersecurity*  
   - *Networking Basics*
+  - *Operating Systems Basics*
 
 ---
 
@@ -44,6 +45,7 @@ Welcome! I'm Ibe Christopher, a cybersecurity enthusiast with a background in so
 
 | Date        | Activity                                              |
 |-------------|-------------------------------------------------------|
+| MAY 9, 2025| Completed Cisco Certification: Operating Sustems Basics|
 | MAY 2, 2025| Completed Cisco Certification: Networking Basics      |
 | May 1, 2025 | Started Cybersecurity Portfolio                       |
 | Apr 20, 2025| Set up VirtualBox lab with Kali Linux Max and Ubuntu |
