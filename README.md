@@ -1,73 +1,72 @@
-# Ibe Christopher | Cybersecurity Portfolio
+# 👨‍💻 Christopher Ibe – Cybersecurity Portfolio
 
-Welcome! I'm Ibe Christopher, a cybersecurity enthusiast with a background in software engineering (ALX program). I'm currently exploring ethical hacking and network fundamentals through hands-on labs and professional certification programs.
-
----
-
-## 🔐 Cybersecurity Projects
-
-### 1. Virtual Lab Setup
-- **Tools**: VirtualBox, Kali Linux, Ubuntu
-- **Description**: Set up a virtual lab environment for cybersecurity practice. Installed Kali Linux and Ubuntu to simulate ethical hacking scenarios and server security configurations. This setup supports my coursework and hands-on learning with Cisco Networking Academy.
-## 2. DHCP Configuration
-
-- [Packet Tracer - DHCP Configuration Lab](./PacketTracer-DHCP.md)
-
-  Feel free to explore and learn more about networking setups and DHCP configurations in this hands-on lab.
-  ## 3. BASIC LAN SETUP
-
-- [Packet Tracer - BASIC LAN SETUP Lab](./Basic-LAN-Setup.md)
-
-  Feel free to explore and learn more about networking setups  in this hands-on lab.
-
+**Cybersecurity Analyst Intern | Fraud Desk Lead | Fintech Risk Detection | Device Intelligence**  
+🔗 [LinkedIn](https://linkedin.com/in/christopher-ibe-26439a24b) | 📧 ibechristopher160@gmail.com  
+🌐 [Portfolio Website](https://ibechristopheramogu.github.io/cybersecurity-portfolio/)  
+🗓️ Last updated: July 3, 2025
 
 ---
 
-## 🎓 Certifications
+## 🔐 About Me
 
-- **Cisco Networking Academy**  
-  - *Introduction to Cybersecurity*  
-  - *Networking Basics*
-  - *Operating Systems Basics*
+I'm a hands-on Cybersecurity Analyst currently leading the **fraud desk** during my internship at **MogRex**. My work involves designing fraud detection workflows using:
+- Router log monitoring (Airtel ZLT + remote syslog)
+- Device fingerprinting and SIM swap detection
+- Risk scoring and rule-based fraud alerts for fintech apps like **CatholicPay**
 
----
-
-## 🧰 Tools & Skills
-
-- **Systems**: Kali Linux Max, Ubuntu, VirtualBox  
-- **Skills**: Network fundamentals, system setup, basic penetration testing  
-- **Languages**: Bash, Python (beginner level)  
-- **Concepts**: OSI Model, threat detection, secure configurations
+I'm passionate about building scalable, privacy-conscious systems that detect fraud and protect user trust.
 
 ---
 
-## 🧠 Learning Timeline
+## 🧪 Projects
 
-| Date        | Activity                                              |
-|-------------|-------------------------------------------------------|
-| MAY 9, 2025| Completed Cisco Certification: Operating Sustems Basics|
-| MAY 2, 2025| Completed Cisco Certification: Networking Basics      |
-| May 1, 2025 | Started Cybersecurity Portfolio                       |
-| Apr 20, 2025| Set up VirtualBox lab with Kali Linux Max and Ubuntu |
-| Apr 4, 2025| Completed Cisco Certification: Intro to Cybersecurity |
+### 📡 Network Threat Mapping (Wireshark)
+- Captured suspicious DNS queries in LAN traffic using Wireshark
+- Analyzed packets for ARP spoofing and rogue DHCP signals
+
+### 🧰 Aircrack-ng + Kali Wi-Fi Lab
+- Deployed ethical wireless penetration testing lab
+- Captured handshake files and cracked WPA2 keys using dictionary attacks
+
+### 🌐 CatholicPay Fraud Detection System *(Internship Project)*
+- Designed fraud flagging rules based on device reuse, IP velocity, and login anomalies
+- Proposed pseudonym transaction structure to balance privacy and compliance
+- Implemented remote log collection from router + manual fraud tracker in Excel
+
+### 🧱 Cairo Telco Network Simulation (Packet Tracer)
+- Built and configured a two-tier enterprise network with VLANs, trunking, EtherChannel
+- Configured static routing, SSH access, and DHCP IP management
+
+---
+## 🧾 Certifications
+
+- ✅ Cisco Certified: Introduction to Cybersecurity  
+- ✅ Cisco Certified: Networking Basics  
+- ✅ Cisco Certified: Operating Systems Basics  
+- ✅ Cisco Certified: Endpoint Security  
+- ✅ Cisco Certified: Network Security & Monitoring  
+- ✅ Cisco Certified: Cyber Threat Management  
+- ✅ Cisco Certified: Junior Cybersecurity Analyst Career Path  
 
 ---
 
-## 📘 Software Engineering (ALX Program)
+## 💼 Current Role
 
-See my [ALX Low Level Programming](https://github.com/Ibechristopheramogu/alx-low_level_programming)
-See my [ALX System Engineering Devops](https://github.com/Ibechristopheramogu/alx-system_engineering-devops)
-- C Programming  
-- DevOps & Shell scripting  
-- System Engineering & Linux
-
----
-
-## 📫 Contact
-
-- [LinkedIn](https://linkedin.com/in/christopher-ibe-26439a24b)  
-- [Email](mailto:ibechristopher160@gmail.com)
+**Cybersecurity Analyst Intern – Fraud Desk Lead**  
+*MogRex* (July 2025 – Present)  
+- Monitoring and investigating fraud using Wazuh, router logs, and behavioral patterns  
+- Analyzing SIM swaps, IP anomalies, and device reuse attempts  
+- Designing a lightweight fraud flagging system with Excel + Firebase logs
 
 ---
 
-*This portfolio is a living document and will grow as I build more hands-on projects.*
+## 📂 Contact
+
+If you're hiring for an entry-level cybersecurity analyst or fraud detection role, I'm actively looking for my first full-time opportunity.
+
+📧 **Email**: ibechristopher160@gmail.com  
+🔗 **LinkedIn**: [Christopher Ibe](https://linkedin.com/in/christopher-ibe-26439a24b)
+
+---
+
+> *"Security is not a product, but a process." – Bruce Schneier*
