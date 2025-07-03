@@ -10,7 +10,7 @@
 ## 🔐 About Me
 
 I'm a hands-on Cybersecurity Analyst currently leading the **fraud desk** during my internship at **MogRex**. My work involves designing fraud detection workflows using:
-- Router log monitoring (Airtel ZLT + remote syslog)
+- Router log monitoring
 - Device fingerprinting and SIM swap detection
 - Risk scoring and rule-based fraud alerts for fintech apps like **CatholicPay**
 
